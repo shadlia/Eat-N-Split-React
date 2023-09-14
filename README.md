@@ -31,9 +31,9 @@ Contributions to enhance the application are encouraged! If you have ideas for i
 
 ## Demo
 
-You can experience a live demo of the Eat and Split in React application [here](https://shadlia.github.io/Eat-N-Split-React).
+You can experience a live demo of the Eat and Split in React application : <br> <h3> [Live here](https://shadlia.github.io/Eat-N-Split-React)</h3></br>
 
-![App Screenshot](link-to-app-screenshot.png)
+![App Screenshot](https://github.com/shadlia/Eat-N-Split-React/assets/74935083/c9a4a4b8-f672-4160-9736-3b8985f42aa4)
 
 ## Contact
 
