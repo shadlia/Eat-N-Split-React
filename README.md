@@ -39,6 +39,6 @@ You can experience a live demo of the Eat and Split in React application : <br> 
 
 If you have any questions or suggestions, please feel free to reach out:
 
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](shadliaelamri@gmail.com)
 
 Happy dining and splitting! 🍕🤝
